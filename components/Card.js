@@ -16,7 +16,7 @@ export default function Card(props) {
                 </div>
                 <div className="text-center py-3">
                     <a href={props.github} target="_blank">
-                        <SingleIconButton>Github Profile</SingleIconButton>
+                        <SingleIconButton>Shivangi</SingleIconButton>
                     </a>
                 </div>
             </div>
